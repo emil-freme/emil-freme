@@ -2,7 +2,7 @@
 
 It's Emil. Here's what you need to know about me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emil-freme&layout=compact)](https://github.com/emil-freme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilfreme&layout=donut-vertical)](https://github.com/emil-freme)
 
 🎮 I specialize in game development and extended reality (XR)
 
