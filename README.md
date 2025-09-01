@@ -1,23 +1,34 @@
-# Hello there, stranger! 👋
+# 👋 Hi, I'm Emil Freme
 
-It's Emil. Here's what you need to know about me:
+You can find more about me here: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilfreme&layout=donut-vertical)](https://github.com/emil-freme)
+[![Emil Freme](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/emilfreme/)) &nbsp; [<img src="https://1000fps.bitbucket.io/favicon.ico" height=50px>](https://1000fps.co/) &nbsp; [<img src="https://1000fps.bitbucket.io/favicon.ico" height=50px>](https://1000fps.bitbucket.io/)
 
-🎮 I specialize in game development and extended reality (XR)
+I'm a passionate programmer, lifelong learner, and dedicated instructor based in São Paulo, Brazil. I like to think of myself as a "planeswalker of programming languages," always exploring new technologies and seeking mastery in my craft.
 
-<img src="https://media3.giphy.com/media/xT5LMXA2FClO5yvy80/giphy.gif?cid=ecf05e47nq71ba8jg3dso2dcuq8qjvz1f8p53lnalpqjssb2&rid=giphy.gif" width=150>
+Currently, I'm a Technical Specialist at the Insper VR and Digital Games Lab, where I support students and create demos. My primary focus is on Game Development, XR (VR/AR), and Computer Graphics, but I also have a strong background in Full-Stack Web Development. I have a vocation for instructing and love sharing knowledge.
 
-💻 Full-stack developer who loves working on the front-end with Jekyll
+# 🚀 My Tech Stack & Skills
 
-🧑‍🎓 Currently studying Computer Graphics and Machine Learning
+I'm comfortable working across a wide range of technologies. Here are some of the tools and languages I enjoy using:
 
-👨‍🏫 Passionate about teaching and helping others in their coding journey
+| Game Dev & XR | Web & Full-Stack | Tools & Other |
+|:-------------:|:----------------:|:-------------:|
+| ![](https://go-skill-icons.vercel.app/api/icons?i=unity,cs&theme=dark) | ![](https://go-skill-icons.vercel.app/api/icons?i=css,sass,js,jekyll&theme=dark) |  ![](https://go-skill-icons.vercel.app/api/icons?i=git,latex,python,neovim&theme=dark) |
 
-🎓 Technical Specialist at Insper VR and Digital Games Lab
 
-And if you're curious, check out my gdocs2jekyll project to learn how to insert Google Docs into Jekyll posts.
+# 🛠️ Featured Projects
 
-👨‍💻 Let's create something amazing together!
+## 📸 [cameras3d](https://github.com/EmilFreme/cameras3d) ![](https://go-skill-icons.vercel.app/api/icons?i=unity,cs&theme=dark)
 
-<img src="https://media2.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e473a4021mchk2yeoclfcv9tse0a6kpgh9w5rherp1s&rid=giphy.gif" width=150>
+A collection of practical examples for implementing various types of 3D game cameras in Unity, such as orbit, free-look, and fixed cameras.
+	
+
+## 📄 [gdocs2jekyll](https://github.com/emil-freme/gdocs2jekyll) ![](https://go-skill-icons.vercel.app/api/icons?i=ruby,jekyll&theme=dark)
+
+A custom Jekyll plugin that allows you to seamlessly embed and display Google Docs content directly on a page without using an iframe.
+
+## 📄 [millbook](https://github.com/emil-freme/milbook) ![](https://go-skill-icons.vercel.app/api/icons?i=latex,python&theme=dark) 
+
+MilBook is a Python-based automation tool designed to generate PDF handouts from a set of Markdown files. It allows users to input metadata like author, title, and date, and uses Pandoc and LaTeX for the final PDF generation.
+
