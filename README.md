@@ -16,21 +16,6 @@ I'm comfortable working across a wide range of technologies. Here are some of th
 |:-------------:|:----------------:|:--------------:|:-------------:|
 | ![](https://go-skill-icons.vercel.app/api/icons?i=unity,cs,itchio&theme=dark) | ![](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,js,jekyll&theme=dark) | ![](https://go-skill-icons.vercel.app/api/icons?i=blender,sketchup,illustrator,indesign,kdenlive&theme=dark) | ![](https://go-skill-icons.vercel.app/api/icons?i=git,latex,python,neovim&theme=dark) |
 
-
-# 🛠️ Featured Projects
-
-## 📸 [cameras3d](https://github.com/EmilFreme/cameras3d) ![](https://go-skill-icons.vercel.app/api/icons?i=unity,cs&theme=dark)
-
-A collection of practical examples for implementing various types of 3D game cameras in Unity, such as orbit, free-look, and fixed cameras.
-
-## 📄 [gdocs2jekyll](https://github.com/emil-freme/gdocs2jekyll) ![](https://go-skill-icons.vercel.app/api/icons?i=ruby,jekyll&theme=dark)
-
-A custom Jekyll plugin that allows you to seamlessly embed and display Google Docs content directly on a page without using an iframe.
-
-## 📄 [millbook](https://github.com/emil-freme/milbook) ![](https://go-skill-icons.vercel.app/api/icons?i=latex,python&theme=dark) 
-
-MilBook is a Python-based automation tool designed to generate PDF handouts from a set of Markdown files. It allows users to input metadata like author, title, and date, and uses Pandoc and LaTeX for the final PDF generation.
-
 # Classes I'm working now
 As a teacher now I'm using the following techologies
 
